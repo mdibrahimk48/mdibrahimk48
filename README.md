@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**mdibrahimk48/mdibrahimk48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋,
 
-Here are some ideas to get you started:
+A Full-Stack WordPress Developer & Technical Support Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 See my Repositories & Gists
+
+📫 Visit my Portfolio/Resume
+
+⚡ Fun fact Watching Anime, Traveling
+
+Connect with me:
+mdibrahimk48
+
+Languages and Tools:
+html5 css3 javascript jQuery PHP bootstrap git
