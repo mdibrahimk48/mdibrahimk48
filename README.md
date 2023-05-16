@@ -1,16 +1,2 @@
-
-Hi 👋,
-
-A Full-Stack WordPress Developer & Technical Support Engineer
-
-👨‍💻 See my Repositories & Gists
-
-📫 Visit my Portfolio/Resume
-
-⚡ Fun fact Watching Anime, Traveling
-
-Connect with me:
-mdibrahimk48
-
-Languages and Tools:
-html5 css3 javascript jQuery PHP bootstrap git
+<h1 align="center">Hi 👋,</h1>
+<h3 align="center">A Full-Stack WordPress Developer & System Admin</h3>
