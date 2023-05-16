@@ -26,9 +26,10 @@
     <a href="https://www.php.net/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> </a>
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+    <a href="https://jquery.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jquery/jquery-horizontal.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
 <a href="https://github.com/mdibrahimk48">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdibrahimk48&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="mdibrahimk48's github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdibrahimk48&theme=dracula&layout=compact" alt="mdibrahimk48's github top languages" />
+  <img height="180em" width="2000px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdibrahimk48&theme=dracula&layout=compact" alt="mdibrahimk48's github top languages" />
 </a>
