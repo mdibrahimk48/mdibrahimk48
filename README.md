@@ -10,7 +10,7 @@
 
 - 🥳 Fun fact *Love to cook*, *Traveling*
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Where to find me:</h3>
 <p align="left">
 <a href="https://profiles.wordpress.org/mdibrahimk48/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/wordpress.svg" alt="mdibrahimk48" height="25" width="40" /></a>
 <a href="https://www.facebook.com/mdibrahimk48/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdibrahimk48" height="25" width="40" /></a>
