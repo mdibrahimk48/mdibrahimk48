@@ -31,5 +31,5 @@
 
 <a href="https://github.com/mdibrahimk48">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdibrahimk48&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="mdibrahimk48's github stats" />
-  <img height="180em" width="2000px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdibrahimk48&theme=dracula&layout=compact" alt="mdibrahimk48's github top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdibrahimk48&theme=dracula&layout=compact" alt="mdibrahimk48's github top languages" />
 </a>
