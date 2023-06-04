@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋,</h1>
 <h3 align="center"> A Full-Stack WordPress Developer & Technical Support Engineer</h3>
 
-<p align="center">🚀 Open source Contributor & WordPress Lover. ❤️ </br>
+<p align="center">🚀 Open Source Contributor & WordPress Lover. ❤️ </br>
 🏠 Living in amazingly beautiful Bangladesh. </p></br>
 
 - 👨‍💻 See my  [Repositories](https://github.com/mdibrahimk48?tab=repositories) & [Gists](https://gist.github.com/mdibrahimk48)
