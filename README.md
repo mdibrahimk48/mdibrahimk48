@@ -31,6 +31,7 @@
     <a href="https://jquery.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jquery/jquery-horizontal.svg" alt="git" width="40" height="40"/> </a>
     <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="git" width="40" height="40"/> </a>
     <a href="https://make.wordpress.org/chat/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="git" width="40" height="40"/> </a>
+    <a href="https://app.asana.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/asana/asana-ar21.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
 <a href="https://github.com/mdibrahimk48">
