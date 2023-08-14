@@ -10,7 +10,7 @@
 
 - 💬 Email: mdibrahimk48@gmail.com
 
-- 🥳 Fun fact *Love to cook*, *Traveling*
+- 🥳 Fun fact: *Love to cook*, *Traveling*
 
 <h3 align="left">Where to find me:</h3>
 <p align="left">
