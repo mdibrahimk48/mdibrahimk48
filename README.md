@@ -8,6 +8,8 @@
 
 - 📫 Visit my [Portfolio/Resume](https://www.ibrahimkhalil.xyz/)
 
+- 💬 Email: mdibrahimk48@gmail.com
+
 - 🥳 Fun fact *Love to cook*, *Traveling*
 
 <h3 align="left">Where to find me:</h3>
@@ -16,6 +18,7 @@
 <a href="https://www.facebook.com/mdibrahimk48/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdibrahimk48" height="25" width="40" /></a>
 <a href="https://www.linkedin.com/in/mdibrahimk48/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdibrahimk48" height="25" width="40" /></a>
 <a href="https://www.twitter.com/mdibrahimk48/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdibrahimk48" height="25" width="40" /></a>
+<a href="https://www.instagram.com/ibrahimkhalilimran48/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instgram.svg" alt="ibrahimkhalilimran48" height="25" width="40" /></a>
 <a href="https://www.youtube.com/@mdibrahimk48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mdibrahimk48" height="25" width="40" /></a>
 </p>
 
