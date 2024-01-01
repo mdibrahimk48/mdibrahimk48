@@ -2,7 +2,7 @@
 <h3 align="center"> A Full-Stack WordPress Developer & Technical Support Engineer</h3>
 
 <p align="center">🚀 Open Source Contributor & WordPress Lover. ❤️ </br>
-🏠 Living in amazingly beautiful Bangladesh.  <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/yammadev/flag-icons/master/svg/BD.svg" alt="mBD" height="20" width="25" /></a> </p></br>
+🏠 Living in amazingly beautiful Bangladesh.  <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/yammadev/flag-icons/master/svg/BD.svg" alt="mBD" height="15" width="20" /></a> </p></br>
 
 - 👨‍💻 See my  [Repositories](https://github.com/mdibrahimk48?tab=repositories) & [Gists](https://gist.github.com/mdibrahimk48)
 
