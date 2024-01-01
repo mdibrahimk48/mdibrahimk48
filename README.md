@@ -2,7 +2,7 @@
 <h3 align="center"> A Full-Stack WordPress Developer & Technical Support Engineer</h3>
 
 <p align="center">🚀 Open Source Contributor & WordPress Lover. ❤️ </br>
-🏠 Living in amazingly beautiful Bangladesh. <i class="flag-icons BD"></i> </p></br>
+🏠 Living in amazingly beautiful Bangladesh. 🇧🇩</p></br>
 
 - 👨‍💻 See my  [Repositories](https://github.com/mdibrahimk48?tab=repositories) & [Gists](https://gist.github.com/mdibrahimk48)
 
@@ -13,11 +13,6 @@
 - 🥳 Fun fact: *Love to cook*, *Traveling*
 
 <h3 align="left">Where to find me:</h3>
-  <!-- Use generated lib -->
-  <link rel="stylesheet" href="/css/flag-icons.css">
-
-  <!-- Or compressed -->
-  <link rel="stylesheet" href="/css/flag-icons.min.css">
 <p align="left">
 <a href="https://profiles.wordpress.org/mdibrahimk48/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/wordpress.svg" alt="mdibrahimk48" height="25" width="40" /></a>
 <a href="https://www.facebook.com/mdibrahimk48/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdibrahimk48" height="25" width="40" /></a>
