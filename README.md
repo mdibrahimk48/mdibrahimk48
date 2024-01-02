@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋,</h1>
 <h3 align="center"> A Full-Stack WordPress Developer & Technical Support Engineer</h3>
 
+<!-- Updated BD Flag -->
 <p align="center">🚀 Open Source Contributor & WordPress Lover. ❤️ </br>
 🏠 Living in amazingly beautiful Bangladesh.  <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/yammadev/flag-icons/master/svg/BD.svg" alt="mBD" height="12" width="15" /></a> </p></br>
 
